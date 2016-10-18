@@ -1,0 +1,14 @@
+.main{
+    background-color: darkred;
+    color: white;
+    border-style: dotted;
+    font-family: 'roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'open sans', sans-serif;
+}
+
+.bodymain{
+    font-family: 'note serif', serif;
+}
